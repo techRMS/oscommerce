@@ -1,3 +1,8 @@
+Compatibility
+====================================
+
+Compatible with the latest version: V2.3.4
+
 oscommerce Installation Instructions
 ====================================
 
